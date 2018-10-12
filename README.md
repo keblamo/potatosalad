@@ -1,2 +1,2 @@
 # potatosalad
-In here, we discuss potatos and salad.
+In here, we discuss potatoes and salad.
